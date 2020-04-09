@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="bmw">BMW</string>
+    <string name="car">Car</string>
+    <string name="bmw_is_the_first">Description</string>
+    <string name="image">Image</string>
+    <string name="Title">Title</string>
+    <string name="Sub">Sub</string>
+    <string-array name="cars">
+        <item>BMW</item>
+        <item>AUDI</item>
+        <item>Mercedes</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>BMW is the first</item>
+        <item>AUDI is the second</item>
+        <item>Mercedes is the third</item>
+    </string-array>
+</resources>
